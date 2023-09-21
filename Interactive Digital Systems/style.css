@@ -1,0 +1,18 @@
+html, body {
+    margin: 0;
+    padding: 0;
+      background-color: var(--dark-color-light);
+  }
+  canvas {
+    display: block;
+  }
+  
+  .card:hover {
+  color: inherit;
+    text-decoration: none; 
+  }
+  
+  .table {
+   padding: 20px;
+  }
+  
